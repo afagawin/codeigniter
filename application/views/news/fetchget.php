@@ -5,7 +5,7 @@
      </head>
      <body>
          <script>
-                 const url = 'https://codeigniter321.herokuapp.com/index.php/newsapi/';
+                 const url = 'https://codeigniter301.herokuapp.com/index.php/newsapi/';
                  fetch(url)
                  .then(data => data.json())
                  .then((json) => {
