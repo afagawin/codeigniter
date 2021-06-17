@@ -7,6 +7,7 @@
          <script>
                  const request = new XMLHttpRequest();
                  const url = 'https://codeigniter321.herokuapp.com/index.php/newsapi/';
+									
                  request.open("GET", url);i
                  request.send();
 
